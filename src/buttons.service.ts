@@ -1,6 +1,6 @@
 // src/buttons.service.ts
 import { Injectable } from '@nestjs/common';
-import { Button } from '@kirillchervotkin/alice-nestjs-framework';
+import { Button } from 'c:/Users/e.latman.ITPLAN/Documents/GitHub/alice-visit-card-skill/node_modules/@kirillchervotkin/alice-nestjs-framework/dist/index';
 import { 
     SERVICE_BUTTON, 
     EXPERIENCE_BUTTON, 

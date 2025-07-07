@@ -6,7 +6,7 @@ import {
   SkillResponse, 
   Unknown,
   Button
-} from '@kirillchervotkin/alice-nestjs-framework';
+} from 'c:/Users/e.latman.ITPLAN/Documents/GitHub/alice-visit-card-skill/node_modules/@kirillchervotkin/alice-nestjs-framework/dist/index';
 import { MessagesService } from './messages.service';
 import { ButtonsService } from './buttons.service';
 
